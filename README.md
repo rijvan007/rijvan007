@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Rijvan Pinjari</h1>
 <h3 align="center">Aspiring Software developer from India</h3>
-<br<br>
+
 <img align="right" alt="Coding" width="400" src="https://github.com/rijvanpinjari/rijvanpinjari/blob/main/GIF/Programmer.gif">
 
 
