@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Rijvan Pinjari</h1>
 <h3 align="center">Aspiring Software developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://github.com/rijvanpinjari/rijvanpinjari/blob/main/GIF/Programmer.gif">
+<img align="right" alt="Coding" width="500" src="https://github.com/rijvanpinjari/rijvanpinjari/blob/main/GIF/Programmer.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rijvanpinjari&label=Profile%20views&color=0e75b6&style=flat" alt="rijvanpinjari" /> </p>
