@@ -144,3 +144,10 @@
 
 <br>
 <div> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rijvanpinjari&" alt="rijvanpinjari" /> </div>
+
+###
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/rijvan007/rijvan007/output/snake.svg" alt="Snake animation" />
+
+###
