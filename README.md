@@ -59,6 +59,8 @@
     <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  /><img width="12" />
   </a>
 
+  <br>
+
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  /><img width="12" />
   </a>
@@ -86,6 +88,8 @@
   <a href="https://figma.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo"  /><img width="12" />
   </a>
+
+  <br>
 
   <a href="link" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  /><img width="12" />
