@@ -32,83 +32,83 @@
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo"  /><img width="12" />
+    <img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo"  /><img width="15"/>
   </a>
 
   <a href="https://cplusplus.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="cplusplus logo"  /><img width="12" />
+    <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="cplusplus logo"  /><img width="15"/>
   </a>
 
   <a href="https://www.java.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  /><img width="12" />
+    <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  /><img width="15"/>
   </a>
 
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  /><img width="12" />
+    <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  /><img width="15"/>
   </a>
   
   <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  /><img width="12" />
+    <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  /><img width="15"/>
   </a>
 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  /><img width="12" />
+    <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  /><img width="15"/>
   </a>
 
   <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  /><img width="12" />
+    <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  /><img width="15"/>
   </a>
 
   <br>
 
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  /><img width="12" />
+    <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  /><img width="15"/>
   </a>
 
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  /><img width="12" />
+    <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  /><img width="15"/>
   </a>
 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  /><img width="12" />
+    <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  /><img width="15"/>
   </a>
 
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  /><img width="12" />
+    <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  /><img width="15"/>
   </a>
   
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=bootstrap" height="30" alt="bootstrap logo"  /><img width="12" />
+    <img src="https://skillicons.dev/icons?i=bootstrap" height="30" alt="bootstrap logo"  /><img width="15"/>
   </a>
 
   <a href="https://www.markdownguide.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=md" height="30" alt="markdown logo"  /><img width="12" />
+    <img src="https://skillicons.dev/icons?i=md" height="30" alt="markdown logo"  /><img width="15"/>
   </a>
 
   <a href="https://figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo"  /><img width="12" />
+    <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo"  /><img width="15"/>
   </a>
 
   <br>
 
   <a href="link" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  /><img width="12" />
+    <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  /><img width="15"/>
   </a>
 
   <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  /><img width="12" />
+    <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  /><img width="15"/>
   </a>
 
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=arduino" height="30" alt="arduino logo"  /><img width="12" />
+    <img src="https://skillicons.dev/icons?i=arduino" height="30" alt="arduino logo"  /><img width="15"/>
   </a>
 
   <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=ps" height="30" alt="adobephotoshop logo"  /><img width="12" />
+    <img src="https://skillicons.dev/icons?i=ps" height="30" alt="adobephotoshop logo"  /><img width="15"/>
   </a>
 
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=ai" height="30" alt="adobeillustrator logo"  /><img width="12" />
+    <img src="https://skillicons.dev/icons?i=ai" height="30" alt="adobeillustrator logo"  /><img width="15"/>
   </a>
 
   <a href="https://helpx.adobe.com/xd/" target="_blank" rel="noreferrer">
