@@ -1,7 +1,7 @@
 ![MasterHead](https://github.com/rijvanpinjari/rijvanpinjari/blob/main/GIF/GitHub_Readme_Banner.gif)
 
 <h1 align="center">Hi 👋, I'm Rijvan Pinjari</h1>
-<h3 align="center">Aspiring Software developer from India</h3>
+<h2 align="center">Aspiring Software developer from India</h2>
 
 <img align="right" alt="Coding" width="400" src="https://github.com/rijvanpinjari/rijvanpinjari/blob/main/GIF/Programmer.gif">
 
@@ -10,7 +10,7 @@
 
 - ⚡ Fun fact **"I convert caffeine into code."**
 
-<h4 align="left">Connect with me:</h4>
+<h3 align="left">Connect with me:</h3>
 <div align="left">
   <a href="mailto:rijvanpinjari0786@gmail.com" target="_blank">
       <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
